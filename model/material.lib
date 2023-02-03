@@ -1,0 +1,12 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2022 Aspose Pty Ltd.
+# File created: 02/03/2023 10:21:01
+
+newmtl Bridge
+	Ka 0.2 0.2 0.2
+	Kd 0.194805 0.194805 0.194805
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
